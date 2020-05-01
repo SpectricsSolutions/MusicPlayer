@@ -1,0 +1,174 @@
+<resources>
+    <string name="app_name">MusicPlayer</string>
+
+    <string name="ek_img_content">ExportKit Image</string>
+    <string name="music_string">MUSIC</string>
+    <string name="old_town_road_string">Old Town Road</string>
+    <string name="billy_ray_cyrus_string">Billy Ray Cyrus</string>
+    <string name="_12_songs_string">12 Songs</string>
+    <string name="death_race_for_love_string">Death Race For Love</string>
+    <string name="juice_wrld_string">Juice WRLD</string>
+    <string name="_11_songs_string">11 Songs</string>
+    <string name="victory_lab_string">Victory Lab</string>
+    <string name="nipsey_hussle_string">Nipsey Hussle</string>
+    <string name="_8__songs_string">8  Songs</string>
+    <string name="thank_u__next_string">Thank U, Next</string>
+    <string name="ariana_grande_string">Ariana Grande</string>
+    <string name="_13_songs_string">13 Songs</string>
+    <string name="featured_albums_string">Featured Albums</string>
+    <string name="view_all_string">View All</string>
+    <string name="best_sellers_string">Best Sellers</string>
+    <string name="view_all_ek1_string">View All</string>
+
+
+    <string name="_5_trending_hastags_string">5 Trending Hastags</string>
+    <string name="artists_string">ARTISTS</string>
+    <string name="__spotify_string">#spotify</string>
+    <string name="__musicworld_string">#musicworld</string>
+    <string name="__jazz_string">#jazz</string>
+    <string name="__billboard_string">#billboard</string>
+    <string name="billy_ray_cyrus_ek1_string">Billy Ray Cyrus</string>
+    <string name="don_t_call_me_up_string">Dont Call Me Up</string>
+    <string name="mabel_string">Mabel</string>
+    <string name="let_me_down_slowly_string">Let Me Down Slowly</string>
+    <string name="alec_benjamin_string">Alec Benjamin</string>
+    <string name="_3___58_string">3 : 58</string>
+    <string name="_4___12_string">4 : 12</string>
+    <string name="_2___46_string">2 : 46</string>
+    <string name="paradise_string">Paradise</string>
+    <string name="bazzi_string">Bazzi</string>
+    <string name="sucker_string">Sucker</string>
+    <string name="jonas_brothers_string">Jonas Brothers</string>
+    <string name="kill_this_love_string">Kill This Love</string>
+    <string name="blackpink_string">BLACKPINK</string>
+    <string name="_3___56_string">3 : 56</string>
+    <string name="_3___12_string">3 : 12</string>
+    <string name="_2___47_string">2 : 47</string>
+    <string name="all_songs_string">All Songs</string>
+
+
+    <string name="one_ok_ro____string">ONE OK RO...</string>
+    <string name="aesop_rock_string">Aesop Rock</string>
+    <string name="pnb_rock_string">PnB Rock</string>
+
+    <string name="featured_artists_string">Featured Artists</string>
+
+    <string name="artist_of_the_month_string">Artist Of The Month</string>
+    <string name="september_string">September</string>
+    <string name="top_50_us___uk_string">TOP 50\
+US - UK</string>
+    <string name="top_50_global_string">TOP 50\
+GLOBAL</string>
+
+    <string name="top_artists_by_country_string">Top Artists By Country</string>
+
+    <string name="categories_string">CATEGORIES</string>
+    <string name="industrial_string">Industrial</string>
+    <string name="fitness___workout_string">Fitness &amp; Workout</string>
+    <string name="hip_hop_rap_string">Hip-Hop/Rap</string>
+    <string name="country_string">Country</string>
+    <string name="electronic_string">Electronic</string>
+    <string name="alternative_string">Alternative</string>
+    <string name="dance_string">Dance</string>
+    <string name="blues_string">Blues</string>
+    <string name="classical_string">Classical</string>
+    <string name="acoustic_blues_string">Acoustic Blues</string>
+    <string name="blues_rock_string">Blues Rock</string>
+    <string name="canadian_blues_string">Canadian Blues</string>
+    <string name="jazz_blues_string">Jazz Blues</string>
+    <string name="piano_blues_string">Piano Blues</string>
+    <string name="soul_blues_string">Soul Blues</string>
+    <string name="swamp_blues_string">Swamp Blues</string>
+
+
+    <string name="featured_string">FEATURED</string>
+    <string name="the_greatest_showman__string">The Greatest\
+Showman </string>
+    <string name="soundtrack_string">Soundtrack</string>
+
+
+    <string name="__spotify___musicworld___grammy2020_string">#spotify, #musicworld, #grammy2020</string>
+    <string name="coachella_2019_day_three_highlights_string">Coachella 2019 Day Three Highlights</string>
+    <string name="_3_123_are_talking_about_this_string">3,123 are talking about this</string>
+    <string name="__spotify___musicworld___grammy2020_ek1_string">#spotify, #musicworld, #grammy2020</string>
+    <string name="coachella_2019_day_three_highlights_ek1_string">Coachella 2019 Day Three Highlights</string>
+    <string name="_3_123_are_talking_about_this_ek1_string">3,123 are talking about this</string>
+
+    <string name="playing_string">PLAYING</string>
+    <string name="_3_40_string">3:40</string>
+    <string name="_0_00_string">0:00</string>
+
+
+
+    <!--Playlist Activity-->
+    <string name="listen_all_string">LISTEN ALL</string>
+    <string name="top_50_rock_ballads_string">Top 50\
+Rock Ballads</string>
+    <string name="playlists_string">PLAYLISTS</string>
+    <string name="_3___37_string">3 : 37</string>
+    <string name="_3___37_ek1_string">3 : 37</string>
+
+    <string name="_4___12_ek1_string">4 : 12</string>
+    <string name="let_me_down_slowly_ek1_string">Let Me Down Slowly</string>
+    <string name="alec_benjamin_ek1_string">Alec Benjamin</string>
+
+    <string name="here_with_me_ek1_string">Here With Me</string>
+
+    <string name="_3___12_ek1_string">3 : 12</string>
+    <string name="paradise_ek1_string">Paradise</string>
+    <string name="bazzi_ek1_string">Bazzi</string>
+    <string name="playlists_ek1_string">Playlists</string>
+
+    <string name="here_with_me_string">Here With Me</string>
+    <string name="marshmello_ek1_string">Marshmello</string>
+    <string name="marshmello_string">Marshmello</string>
+
+
+
+
+
+
+    <!--song-->
+
+    <string name="old_town_road_ek1_string">Old Town Road</string>
+
+    <string name="a_b_c_d_e_f_g_h_i_j_k_l_m_n_o_p_q_r_s_t_u_v_w_x_y_z_1_2_3_4_5_6_7_8_9_0_string">A\
+B\
+C\
+D\
+E\
+F\
+G\
+H\
+I\
+J\
+K\
+L\
+M\
+N\
+O\
+P\
+Q\
+R\
+S\
+T\
+U\
+V\
+W\
+X\
+Y\
+Z\
+1\
+2\
+3\
+4\
+5\
+6\
+7\
+8\
+9\
+0</string>
+    <string name="kill_this_love_ek1_string">Kill This Love</string>
+    <string name="blackpink_ek1_string">BLACKPINK</string>
+    <string name="_2___47_ek1_string">2 : 47</string>
+</resources>
