@@ -1,0 +1,484 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/albums"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent" >
+
+        <RelativeLayout android:id="@+id/content_container"
+            android:layout_width="wrap_content"
+            android:background="@drawable/_bg__albums_shape"
+            android:layout_height="812dp" >
+
+            <View android:id="@+id/_bg__albums"
+                android:background="@drawable/_bg__albums_shape"
+                android:layout_marginLeft="0dp"
+                android:layout_marginStart="0dp"
+                android:layout_marginTop="0dp"
+                android:layout_width="match_parent"
+                android:layout_height="812dp" />
+
+            <ImageView android:id="@+id/pexels_photo_1988681"
+                android:src="@drawable/pexels_photo_1988681"
+                android:contentDescription="pexels_photo_1988681"
+                android:layout_marginLeft="14dp"
+                android:layout_marginStart="14dp"
+                android:layout_marginTop="196dp"
+                android:layout_width="154dp"
+                android:layout_height="154dp" />
+
+            <ImageView android:id="@+id/pexels_photo_1435457"
+                android:src="@drawable/pexels_photo_1435457"
+                android:contentDescription="pexels_photo_1435457"
+                android:layout_marginLeft="159dp"
+                android:layout_marginStart="159dp"
+                android:layout_marginTop="196dp"
+                android:layout_width="154dp"
+                android:layout_height="154dp" />
+
+            <ImageView android:id="@+id/pexels_photo_1816943"
+                android:src="@drawable/pexels_photo_1816943"
+                android:contentDescription="pexels_photo_1816943"
+                android:layout_marginLeft="303dp"
+                android:layout_marginStart="303dp"
+                android:layout_marginTop="196dp"
+                android:layout_width="154dp"
+                android:layout_height="154dp" />
+
+
+            <RelativeLayout android:id="@+id/group_402"
+                android:layout_marginTop="27dp"
+                android:layout_marginStart="25dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                >
+
+                <ImageView android:id="@+id/__ionicons_svg_ios_arrow_back"
+                    android:src="@drawable/__ionicons_svg_ios_arrow_back"
+                    android:contentDescription="__ionicons_svg_ios_arrow_back"
+                    android:layout_marginLeft="0dp"
+                    android:layout_marginStart="0dp"
+                    android:layout_marginTop="3dp"
+                    android:layout_width="8.575439453125dp"
+                    android:layout_height="15dp" />
+
+                <TextView android:id="@+id/music"
+                    android:fontFamily="Poppins"
+                    android:layout_gravity="center_horizontal|center"
+                    android:gravity="center"
+                    android:textSize="15sp"
+                    android:textColor="@color/music_color"
+                    android:layout_marginLeft="131dp"
+                    android:layout_marginTop="0dp"
+                    android:layout_width="63dp"
+                    android:layout_height="24dp"
+                    android:text="@string/music_string"
+                    />
+
+                <ImageView android:id="@+id/__ionicons_svg_ios_search"
+                    android:src="@drawable/__ionicons_svg_ios_search"
+                    android:contentDescription="__ionicons_svg_ios_search"
+                    android:layout_marginLeft="310dp"
+                    android:layout_marginStart="310dp"
+                    android:layout_marginTop="3dp"
+                    android:layout_width="14.996337890625dp"
+                    android:layout_height="15dp" />
+
+            </RelativeLayout>
+
+            <ImageView android:id="@+id/path_338"
+                android:src="@drawable/path_338"
+                android:contentDescription="path_338"
+                android:layout_marginLeft="26.2880859375dp"
+                android:layout_marginStart="26.2880859375dp"
+                android:layout_marginTop="95.359985351562dp"
+                android:layout_width="196.091796875dp"
+                android:layout_height="26.892028808594dp" />
+
+
+            <RelativeLayout android:id="@+id/group_407"
+                android:layout_marginTop="415dp"
+                android:layout_marginStart="25dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                >
+
+                <ImageView android:id="@+id/pexels_photo_1816943_ek1"
+                    android:src="@drawable/pexels_photo_1816943_ek1"
+                    android:contentDescription="pexels_photo_1816943_ek1"
+                    android:layout_marginLeft="0dp"
+                    android:layout_marginStart="0dp"
+                    android:layout_marginTop="0dp"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp" />
+
+
+                <RelativeLayout android:id="@+id/group_447"
+                    android:layout_marginTop="0dp"
+                    android:layout_marginStart="68dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    >
+
+                    <TextView android:id="@+id/old_town_road"
+                        android:fontFamily="Poppins"
+                        android:textSize="15sp"
+                        android:textColor="@color/music_color"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginTop="0dp"
+                        android:layout_width="119dp"
+                        android:layout_height="24dp"
+                        android:text="@string/old_town_road_string"
+                        />
+
+                    <TextView android:id="@+id/billy_ray_cyrus"
+                        android:fontFamily="Poppins"
+                        android:textSize="12sp"
+                        android:textColor="@color/music_color"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginTop="27dp"
+                        android:layout_width="89dp"
+                        android:layout_height="19dp"
+                        android:text="@string/billy_ray_cyrus_string"
+                        />
+
+                </RelativeLayout>
+
+                <TextView android:id="@+id/_12_songs"
+                    android:fontFamily="Poppins"
+                    android:layout_gravity="center_vertical|end"
+                    android:gravity="end"
+                    android:textSize="12sp"
+                    android:textColor="@color/music_color"
+                    android:layout_marginLeft="273dp"
+                    android:layout_marginTop="14dp"
+                    android:layout_width="55dp"
+                    android:layout_height="19dp"
+                    android:text="@string/_12_songs_string"
+                    />
+
+            </RelativeLayout>
+
+
+            <RelativeLayout android:id="@+id/group_410"
+                android:layout_marginTop="637dp"
+                android:layout_marginStart="25dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                >
+
+                <ImageView android:id="@+id/pexels_photo_2062347"
+                    android:src="@drawable/pexels_photo_2062347"
+                    android:contentDescription="pexels_photo_2062347"
+                    android:layout_marginLeft="0dp"
+                    android:layout_marginStart="0dp"
+                    android:layout_marginTop="0dp"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp" />
+
+
+                <RelativeLayout android:id="@+id/group_450"
+                    android:layout_marginTop="0dp"
+                    android:layout_marginStart="68dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    >
+
+                    <TextView android:id="@+id/death_race_for_love"
+                        android:fontFamily="Poppins"
+                        android:textSize="15sp"
+                        android:textColor="@color/music_color"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginTop="0dp"
+                        android:layout_width="159dp"
+                        android:layout_height="24dp"
+                        android:text="@string/death_race_for_love_string"
+                        />
+
+                    <TextView android:id="@+id/juice_wrld"
+                        android:fontFamily="Poppins"
+                        android:textSize="12sp"
+                        android:textColor="@color/music_color"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginTop="27dp"
+                        android:layout_width="71dp"
+                        android:layout_height="19dp"
+                        android:text="@string/juice_wrld_string"
+                        />
+
+                </RelativeLayout>
+
+                <TextView android:id="@+id/_11_songs"
+                    android:fontFamily="Poppins"
+                    android:layout_gravity="center_vertical|end"
+                    android:gravity="end"
+                    android:textSize="12sp"
+                    android:textColor="@color/music_color"
+                    android:layout_marginLeft="276dp"
+                    android:layout_marginTop="14dp"
+                    android:layout_width="52dp"
+                    android:layout_height="19dp"
+                    android:text="@string/_11_songs_string"
+                    />
+
+            </RelativeLayout>
+
+
+            <RelativeLayout android:id="@+id/group_408"
+                android:layout_marginTop="489dp"
+                android:layout_marginStart="25dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                >
+
+                <ImageView android:id="@+id/pexels_photo_2064522"
+                    android:src="@drawable/pexels_photo_2064522"
+                    android:contentDescription="pexels_photo_2064522"
+                    android:layout_marginLeft="0dp"
+                    android:layout_marginStart="0dp"
+                    android:layout_marginTop="0dp"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp" />
+
+
+                <RelativeLayout android:id="@+id/group_448"
+                    android:layout_marginTop="0dp"
+                    android:layout_marginStart="68dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    >
+
+                    <TextView android:id="@+id/victory_lab"
+                        android:fontFamily="Poppins"
+                        android:textSize="15sp"
+                        android:textColor="@color/music_color"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginTop="0dp"
+                        android:layout_width="92dp"
+                        android:layout_height="24dp"
+                        android:text="@string/victory_lab_string"
+                        />
+
+                    <TextView android:id="@+id/nipsey_hussle"
+                        android:fontFamily="Poppins"
+                        android:textSize="12sp"
+                        android:textColor="@color/music_color"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginTop="27dp"
+                        android:layout_width="86dp"
+                        android:layout_height="19dp"
+                        android:text="@string/nipsey_hussle_string"
+                        />
+
+                </RelativeLayout>
+
+                <TextView android:id="@+id/_8__songs"
+                    android:fontFamily="Poppins"
+                    android:layout_gravity="center_vertical|end"
+                    android:gravity="end"
+                    android:textSize="12sp"
+                    android:textColor="@color/music_color"
+                    android:layout_marginLeft="273dp"
+                    android:layout_marginTop="14dp"
+                    android:layout_width="55dp"
+                    android:layout_height="19dp"
+                    android:text="@string/_8__songs_string"
+                    />
+
+            </RelativeLayout>
+
+
+            <RelativeLayout android:id="@+id/group_409"
+                android:layout_marginTop="563dp"
+                android:layout_marginStart="25dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                >
+
+                <ImageView android:id="@+id/pexels_photo_1844521"
+                    android:src="@drawable/pexels_photo_1844521"
+                    android:contentDescription="pexels_photo_1844521"
+                    android:layout_marginLeft="0dp"
+                    android:layout_marginStart="0dp"
+                    android:layout_marginTop="0dp"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp" />
+
+
+                <RelativeLayout android:id="@+id/group_449"
+                    android:layout_marginTop="0dp"
+                    android:layout_marginStart="68dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    >
+
+                    <TextView android:id="@+id/thank_u__next"
+                        android:fontFamily="Poppins"
+                        android:textSize="15sp"
+                        android:textColor="@color/music_color"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginTop="0dp"
+                        android:layout_width="110dp"
+                        android:layout_height="24dp"
+                        android:text="@string/thank_u__next_string"
+                        />
+
+                    <TextView android:id="@+id/ariana_grande"
+                        android:fontFamily="Poppins"
+                        android:textSize="12sp"
+                        android:textColor="@color/music_color"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginTop="27dp"
+                        android:layout_width="92dp"
+                        android:layout_height="19dp"
+                        android:text="@string/ariana_grande_string"
+                        />
+
+                </RelativeLayout>
+
+                <TextView android:id="@+id/_13_songs"
+                    android:fontFamily="Poppins"
+                    android:layout_gravity="center_vertical|end"
+                    android:gravity="end"
+                    android:textSize="12sp"
+                    android:textColor="@color/music_color"
+                    android:layout_marginLeft="273dp"
+                    android:layout_marginTop="14dp"
+                    android:layout_width="55dp"
+                    android:layout_height="19dp"
+                    android:text="@string/_13_songs_string"
+                    />
+
+            </RelativeLayout>
+
+            <TextView android:id="@+id/featured_albums"
+                android:fontFamily="Poppins"
+                android:textSize="15sp"
+                android:textColor="@color/music_color"
+                android:layout_marginLeft="26dp"
+                android:layout_marginTop="159dp"
+                android:layout_width="138dp"
+                android:layout_height="24dp"
+                android:text="@string/featured_albums_string"
+                />
+
+            <TextView android:id="@+id/view_all"
+                android:fontFamily="Poppins"
+                android:layout_gravity="center_vertical|end"
+                android:gravity="end"
+                android:textSize="15sp"
+                android:textColor="@color/view_all_color"
+                android:layout_marginLeft="291dp"
+                android:layout_marginTop="159dp"
+                android:layout_width="61dp"
+                android:layout_height="24dp"
+                android:text="@string/view_all_string"
+                />
+
+            <TextView android:id="@+id/best_sellers"
+                android:fontFamily="Poppins"
+                android:textSize="15sp"
+                android:textColor="@color/music_color"
+                android:layout_marginLeft="26dp"
+                android:layout_marginTop="370dp"
+                android:layout_width="93dp"
+                android:layout_height="24dp"
+                android:text="@string/best_sellers_string"
+                />
+
+            <TextView android:id="@+id/view_all_ek1"
+                android:fontFamily="Poppins"
+                android:layout_gravity="center_vertical|end"
+                android:gravity="end"
+                android:textSize="15sp"
+                android:textColor="@color/view_all_color"
+                android:layout_marginLeft="291dp"
+                android:layout_marginTop="370dp"
+                android:layout_width="61dp"
+                android:layout_height="24dp"
+                android:text="@string/view_all_ek1_string"
+                />
+
+
+            <RelativeLayout android:id="@+id/group_22"
+                android:layout_marginTop="747dp"
+                android:layout_marginStart="0dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                >
+
+                <View android:id="@+id/rectangle_16"
+                    android:background="@drawable/rectangle_16_shape"
+                    android:layout_marginLeft="0dp"
+                    android:layout_marginStart="0dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_width="375dp"
+                    android:layout_height="65dp" />
+
+
+                <RelativeLayout android:id="@+id/group_21"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginStart="32dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    >
+
+                    <ImageView android:id="@+id/path_343"
+                        android:src="@drawable/path_343"
+                        android:contentDescription="path_343"
+                        android:layout_marginLeft="296dp"
+                        android:layout_marginStart="296dp"
+                        android:layout_marginTop="13dp"
+                        android:layout_width="18.546875dp"
+                        android:layout_height="19.375dp" />
+
+                    <ImageView android:id="@+id/path_3"
+                        android:src="@drawable/path_3"
+                        android:contentDescription="path_3"
+                        android:layout_marginLeft="133dp"
+                        android:layout_marginStart="133dp"
+                        android:layout_marginTop="0dp"
+                        android:layout_width="45dp"
+                        android:layout_height="45dp" />
+
+                    <ImageView android:id="@+id/__ionicons_svg_ios_microphone"
+                        android:src="@drawable/__ionicons_svg_ios_microphone"
+                        android:contentDescription="__ionicons_svg_ios_microphone"
+                        android:layout_marginLeft="75dp"
+                        android:layout_marginStart="75dp"
+                        android:layout_marginTop="13dp"
+                        android:layout_width="12.857421875dp"
+                        android:layout_height="20dp" />
+
+                    <ImageView android:id="@+id/__ionicons_svg_ios_contrast"
+                        android:src="@drawable/__ionicons_svg_ios_contrast"
+                        android:contentDescription="__ionicons_svg_ios_contrast"
+                        android:layout_marginLeft="220dp"
+                        android:layout_marginStart="220dp"
+                        android:layout_marginTop="12dp"
+                        android:layout_width="20dp"
+                        android:layout_height="20dp" />
+
+                    <ImageView android:id="@+id/__ionicons_svg_ios_pulse"
+                        android:src="@drawable/__ionicons_svg_ios_pulse"
+                        android:contentDescription="__ionicons_svg_ios_pulse"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginStart="0dp"
+                        android:layout_marginTop="13dp"
+                        android:layout_width="21.5439453125dp"
+                        android:layout_height="20dp" />
+
+                    <ImageView android:id="@+id/__ionicons_svg_md_wifi"
+                        android:src="@drawable/__ionicons_svg_md_wifi"
+                        android:contentDescription="__ionicons_svg_md_wifi"
+                        android:layout_marginLeft="142dp"
+                        android:layout_marginStart="142dp"
+                        android:layout_marginTop="10dp"
+                        android:layout_width="27.083251953125dp"
+                        android:layout_height="25dp" />
+
+                </RelativeLayout>
+
+            </RelativeLayout>
+
+        </RelativeLayout>
+
+    </ScrollView>

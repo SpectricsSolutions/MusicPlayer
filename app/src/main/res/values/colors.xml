@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- albums colors -->
+
+	<color name="colorPrimary">#008577</color>
+	<color name="colorPrimaryDark">#00574B</color>
+	<color name="colorAccent">#D81B60</color>
+
+	<color name="_bg__albums_color">#341931</color>
+	<color name="music_color">#ffffff</color>
+	<color name="view_all_color">#ff1168</color>
+
+	<color name="_bg__artist_details_color">#341931</color>
+	<color name="billy_ray_cyrus_color">#ffffff</color>
+	<color name="rectangle_15_color">#ff1168</color>
+	<color name="ellipse_5_color">#000000</color>
+
+	<color name="_bg__artists_color">#341931</color>
+	<color name="one_ok_ro____color">#ffffff</color>
+	<color name="pexels_photo_417473_ek1_color">#000000</color>
+	<color name="jonas_brothers_color">#ff1168</color>
+	<color name="rectangle_16_color">#111625</color>
+
+	<color name="_bg__categories_color">#341931</color>
+	<color name="categories_color">#ffffff</color>
+
+	<color name="rectangle_14_color">#115793</color>
+	<color name="rectangle_14_ek1_color">#0abebe</color>
+	<color name="rectangle_14_ek2_color">#00a1cb</color>
+	<color name="rectangle_14_ek3_color">#f2bc06</color>
+	<color name="rectangle_14_ek4_color">#3a7634</color>
+	<color name="rectangle_14_ek5_color">#d70060</color>
+	<color name="rectangle_14_ek6_color">#5eb11c</color>
+	<color name="rectangle_14_ek7_color">#e54028</color>
+	<color name="rectangle_14_ek8_color">#f18d05</color>
+
+	<color name="_bg__featured_color">#341931</color>
+	<color name="featured_color">#ffffff</color>
+	<color name="pexels_photo_417473_color">#000000</color>
+
+
+
+	<color name="_bg__feed_color">#341931</color>
+	<color name="__spotify___musicworld___grammy2020_color">#ff1168</color>
+	<color name="coachella_2019_day_three_highlights_color">#ffffff</color>
+
+
+	<color name="_bg__player2_color">#111625</color>
+	<color name="playing_color">#ffffff</color>
+	<color name="ellipse_3_color">#ff1168</color>
+	<color name="rectangle_1_color">#000000</color>
+
+
+<!--playlist-->
+	<color name="_bg__playlists_color">#341931</color>
+	<color name="photo_1524678606370_a47ad25cb82a_color">#111625</color>
+	<color name="rectangle_5_color">#ff1168</color>
+	<color name="listen_all_color">#ff1168</color>
+	<color name="top_50_rock_ballads_color">#ffffff</color>
+	<color name="ellipse_9_color">#000000</color>
+
+
+	<!--song-->
+	<color name="_bg__songs_color">#341931</color>
+	<color name="rectangle_7_color">#000000</color>
+	<color name="old_town_road_color">#ffffff</color>
+
+</resources>

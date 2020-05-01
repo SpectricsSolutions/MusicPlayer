@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- photo_1524678606370_a47ad25cb82a from your PSD file. -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+	android:shape="rectangle" >
+	<solid android:color="@color/photo_1524678606370_a47ad25cb82a_color" />
+</shape>
+

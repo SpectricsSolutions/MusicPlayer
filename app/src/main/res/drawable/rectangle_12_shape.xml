@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- rectangle_12 from your PSD file. -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+	android:shape="rectangle" >
+	<corners android:radius="8dp" />
+	<solid android:color="@color/pexels_photo_417473_ek1_color" />
+	<gradient android:angle="90" android:type="linear" android:startColor="#ff5eb11c" android:endColor="#ff3a7634" />
+</shape>
+
